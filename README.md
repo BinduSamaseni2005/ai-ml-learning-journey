@@ -99,3 +99,66 @@ This repository contains my daily practice notebooks, Python fundamentals, and h
 
 
 Learning in public and documenting my progress daily 🚀
+
+# NumPy & Pandas Practice 📊
+
+This folder contains practice notebooks for NumPy and Pandas, which are essential libraries for Data Analysis and Machine Learning in Python.
+
+---
+
+# 📘 NumPy Topics Covered
+
+* Introduction to NumPy
+* NumPy Arrays
+* Array Creation
+* Array Indexing and Slicing
+* Array Operations
+* Mathematical Functions
+* Reshaping Arrays
+* Aggregation Functions
+* Basic Numerical Computations
+
+### File
+
+* `NumpyMay18.ipynb`
+
+---
+
+# 📗 Pandas Topics Covered
+
+* Introduction to Pandas
+* Series and DataFrames
+* Reading Data
+* DataFrame Operations
+* Selecting Rows and Columns
+* Filtering Data
+* Handling Missing Values
+* Data Analysis Basics
+* Descriptive Statistics
+
+### File
+
+* `PandasMay18(2).ipynb`
+
+---
+
+# 🛠 Tools Used
+
+* Python
+* Jupyter Notebook
+* NumPy
+* Pandas
+
+---
+
+# 🎯 Goal
+
+* Build strong foundations in data analysis
+* Learn numerical computing using NumPy
+* Practice data manipulation using Pandas
+* Prepare for Machine Learning workflows
+
+---
+
+Learning and documenting progress daily 🚀
+
