@@ -160,5 +160,74 @@ This folder contains practice notebooks for NumPy and Pandas, which are essentia
 
 ---
 
+# 📊 Python Visualization
+
+This section contains visualization practice notebooks using Matplotlib and Seaborn for exploring continuous and categorical data visually.
+
+---
+
+# 📘 Topics Covered
+
+## Python Visualization - Introduction
+
+* Basics of Data Visualization
+* Introduction to Matplotlib
+* Introduction to Seaborn
+* Understanding Plots and Graphs
+
+### File
+
+* `Python Visualization.ipynb`
+
+---
+
+## Python Visualization - Plots and Graphs (Continuous)
+
+* Scatter Plot
+* Line Plot
+* Histogram
+* KDE Plot
+* Joint Plot
+* Hex Plot
+* Pair Plot
+* Distribution Analysis
+* Correlation Visualization
+
+---
+
+## Python Visualization - How to Plot Categorically?
+
+* Bar Plot
+* Count Plot
+* Box Plot
+* Violin Plot
+* Categorical Scatter Plots
+* Comparing Categories using Visualization
+
+---
+
+# 🛠 Libraries Used
+
+* Python
+* Matplotlib
+* Seaborn
+* Pandas
+* NumPy
+* Jupyter Notebook
+
+---
+
+# 🎯 Goal
+
+* Understand data visually
+* Learn continuous and categorical plotting
+* Explore relationships between variables
+* Improve exploratory data analysis (EDA) skills
+* Build strong visualization foundations for Machine Learning
+
+---
+
 Learning and documenting progress daily 🚀
+
+
 
